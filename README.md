@@ -1,4 +1,4 @@
-#PWN Lab
+# PWN Lab
 
 PWN Lab is a collection of Vagrant scripts and boxes to create security training environments. Getting a running environment is as easy as cloning the repository and running `vagrant up`.
 
